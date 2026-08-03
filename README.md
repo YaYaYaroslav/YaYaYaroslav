@@ -1,151 +1,97 @@
 <div align="center">
 
-# Hi there, I'm Yaroslav 👋
+# 👋 Hi, I'm Yaroslav
 
-### Python Developer • Data Analyst • Backend Enthusiast
+### Python Developer • Data Analyst • Backend Developer
 
-Building reliable Python applications, exploring data, and creating practical solutions.
-
-<br>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Data+Analysis+Enthusiast;Always+Learning+Something+New" />
-</p>
+Building software, exploring data and constantly learning new technologies.
 
 </div>
 
----
+## 🚀 About Me
 
-# 🚀 About Me
+I'm a Python developer passionate about creating useful applications,
+building backend systems and discovering insights from data.
 
-I'm a Python developer passionate about building useful software and solving real-world problems.
+Currently focusing on
 
-Currently I'm focused on:
-
-- 🐍 Python Development
-- 🌐 Django Backend
-- 📊 Data Analysis
-- 🗄 SQL Databases
-- 🤖 Machine Learning fundamentals
-- ⚡ Automation Tools
-
-I enjoy turning ideas into working applications while continuously improving my programming and analytical skills.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-
-### Backend
-
-![Django](https://skillicons.dev/icons?i=django)
-
-### Database
-
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git,github,vscode)
-
-### Data Analysis
-
-- Pandas
-- NumPy
-- Matplotlib
-- SQL
-- Jupyter Notebook
-
----
-
-# 📂 Featured Projects
-
-### 📊 Data Analysis
-
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Visualization
-- Dashboard Projects
-
-### 🌐 Backend
-
-- Django REST Projects
-- Authentication Systems
-- CRUD Applications
-
-### 🐍 Python
-
-- Desktop Applications
-- Tkinter Projects
-- Automation Scripts
-- CLI Utilities
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Django
-- Data Analytics
+- Backend Development
+- Data Analysis
 - Machine Learning
-- Software Architecture
+- Automation
+- Clean Code
 
----
+<h2>💻 Tech Stack</h2>
 
-# 📫 Connect with Me
+<p align="center">
 
-- 💼 LinkedIn
-- ✉️ Email
-- 💬 Telegram
+<img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,linux,docker"/>
 
----
+</p>
 
-<div align="center">
+<p align="center">
 
-### Thanks for visiting! ⭐
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
-</div>
+</p>
+
+📊 Data Analysis Portfolio
+
+EDA
+Visualization
+Cleaning
+Machine Learning
+
+──────────────────────
+
+🌐 Django Backend
+
+Authentication
+
+REST API
+
+SQLite
+
+──────────────────────
+
+⚡ Python
+
+Tkinter
+
+Automation
+
+CLI
+
+Algorithms
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YaYaYaroslav&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaYaYaroslav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YaYaYaroslav&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YaYaYaroslav&theme=tokyo-night"/>
+
+</p>
+
+## 📫 Connect with Me
+
+Telegram
+
+LinkedIn
+
+Email
