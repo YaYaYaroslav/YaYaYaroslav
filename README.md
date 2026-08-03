@@ -34,7 +34,7 @@ Backend-розробник (Python/SQL), що переходить у **Data Ana
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YaYaYaroslav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats-virid-seven-39.vercel.app/api?username=YaYaYaroslav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaYaYaroslav&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -44,7 +44,7 @@ Backend-розробник (Python/SQL), що переходить у **Data Ana
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaYaYaroslav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-virid-seven-39.vercel.app/api/top-langs/?username=YaYaYaroslav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
