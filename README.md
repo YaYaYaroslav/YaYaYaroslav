@@ -73,54 +73,32 @@ My goal is to turn raw data into actionable business insights through analytics 
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 Theatre Management System
+### 📦 Amazon Product Analytics Dashboard
 
-A relational database application for managing theatre operations, including actors, genres, and performances. Built with Django ORM and PostgreSQL to provide an efficient and scalable data model.
+An end-to-end data analytics project built with **Python, Pandas, Plotly, and Dash**.
+The project includes data cleaning, exploratory data analysis (EDA), NLP-based review analysis, and an interactive dashboard with dynamic filtering and KPI visualizations.
 
-`Python` `Django` `Django ORM` `PostgreSQL`
+**Tech Stack:**  
+`Python` `Pandas` `Plotly` `Dash` `Scikit-learn` `NLP`
 
-[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Kitchen Order Service
-
-A real-time communication platform for restaurant staff that streamlined order management by reducing manual data entry and improving workflow efficiency.
-
-`Python` `PostgreSQL` `Real-time Data`
-
-[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Library Management API
-
-A team project (4 developers) built with Django REST Framework. Focused on optimizing SQL queries and improving data retrieval performance.
-
-`Django REST Framework` `PostgreSQL` `Team Project`
-
-[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav)
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav/Amazon-Product-Analytics-Dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Telegram Bots
+### 💼 Job Board
 
-Automation bots developed with Python to simplify customer communication and eliminate repetitive manual tasks.
+A full-stack job board web application where users can browse, search, and manage job listings.
+Built with Django following modern backend development practices, including authentication, database modeling, and responsive UI.
 
-`Python` `Telegram API` `Automation`
+**Tech Stack:**  
+`Python` `Django` `PostgreSQL` `HTML` `CSS`
 
-[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav)
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav/job-board)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ## 🐍 Contribution Snake
 
