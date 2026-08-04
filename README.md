@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yaroslav%20Polinkin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Data%20Analyst&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/YaYaYaroslav">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=560&lines=Backend+Python+Developer+(Django+%2F+FastAPI);Transitioning+into+Data+Analytics+%F0%9F%93%8A;SQL+%E2%80%A2+Pandas+%E2%80%A2+Tableau+%E2%80%A2+Power+BI;From+raw+data+to+insights+and+business+decisions;Kyiv%2C+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Python+Developer+%E2%80%A2+Data+Analyst;Django+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Pandas;Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Dash;Transforming+data+into+actionable+insights;Kyiv%2C+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,8 +24,8 @@ My goal is to turn raw data into actionable business insights through analytics 
 
 - 🔭 Currently building backend applications with **Django** and **FastAPI**
 - 📊 Learning **Power BI** and expanding my data analytics expertise
-- 🎓 B.S. in Software Engineering, Zhytomyr Polytechnic (2022–2026)
-- 📚 Mate Academy — Python & Django Development (2024)
+- 🎓 B.S. in Software Engineering, Zhytomyr Polytechnic
+- 📚 Mate Academy — Python & Django Development
 - 💬 Feel free to reach out via Telegram
 
 </td>
