@@ -107,6 +107,7 @@ Built with Django following modern backend development practices, including auth
 
 </td>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 ATS Insight
@@ -138,6 +139,7 @@ The application combines a **rule-based ATS engine** with an optional **AI layer
 <td width="50%" valign="top">
 
 </td>
+<tr>
 
 </tr>
 </table>
