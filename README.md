@@ -106,6 +106,39 @@ Built with Django following modern backend development practices, including auth
 [![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav/job-board)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🤖 ATS Insight
+
+An AI-powered full-stack ATS platform for resume analysis, job matching, and career optimization.
+
+The application combines a **rule-based ATS engine** with an optional **AI layer** to analyze resumes against job descriptions, calculate compatibility scores, identify missing skills, and provide actionable recommendations.
+
+**Features:**
+- 📄 Resume upload and document parsing
+- 🎯 ATS compatibility scoring
+- 🔍 Resume vs. job vacancy analysis
+- 🧠 AI-powered resume recommendations
+- ✍️ Resume improvement suggestions
+- 💬 Interview preparation tips
+- 🔐 JWT authentication and email verification
+- 📊 Analysis history and resume versioning
+- 🐘 PostgreSQL database
+- 🐳 Docker & Docker Compose
+
+**Tech Stack:**  
+`Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `Gemini AI` `JWT`
+
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav/ATS_INSIGHT)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=render)](https://ats-insight-frontend-stlo.onrender.com)
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
 </tr>
 </table>
 
