@@ -138,9 +138,30 @@ The application combines a **rule-based ATS engine** with an optional **AI layer
 
 <td width="50%" valign="top">
 
+### 🔎 Work.ua Vacancy Tracker
+
+A Django-based application for automated collection and tracking of IT job vacancies from Work.ua.
+
+The application scrapes vacancy listings, stores them in PostgreSQL, detects new vacancies, categorizes them using custom keywords, tracks application statuses, and supports exporting collected data to multiple formats.
+
+Features:
+- 🔍 Automated vacancy scraping from Work.ua
+- 🆕 Detection and storage of new vacancies
+- 🏷️ Custom keyword-based vacancy categorization
+- 📌 Job application status tracking
+- 🐘 PostgreSQL database integration
+- 📄 CSV export
+- 📊 Google Sheets export
+- 💾 PostgreSQL database dump export
+- ⏱️ Designed for automated scheduled runs
+
+**Tech Stack:**  
+`Python` `Django` `PostgreSQL` `BeautifulSoup` `Requests` `Google Sheets` `CSV`
+
+[![Repo](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/YaYaYaroslav/workua-vacancy-tracker)
+
 </td>
 <tr>
-
 </tr>
 </table>
 
